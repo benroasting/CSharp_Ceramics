@@ -1,25 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.ComponentModel;
 using Xamarin.Forms;
 
 namespace Counter1
 {	
 	public partial class ResultsPage : ContentPage
 	{
-		private int counter;
+		private readonly Container container;
 
-		public ResultsPage (int counter)
+		public ResultsPage (Container container)
 		{
 			InitializeComponent ();
-			this.counter = counter;
-			this.CounterLabel.Text = counter.ToString();
+			this.container = container;
+			CounterLabel.Text = container.Counter.ToString();
 		}
 
         private void Reset(object sender, EventArgs e)
         {
-            this.counter = 0;
-            this.CounterLabel.Text = this.counter.ToString();
+            container.Counter = 0;
+            CounterLabel.Text = this.container.Counter.ToString();
         }
     }
 }

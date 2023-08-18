@@ -20,6 +20,7 @@
                     FontSize="64"
                     Text="0"
                     TextColor="{StaticResource Primary}"
+                    TextDecorations="Underline"
                     HorizontalOptions="Center"
                     VerticalOptions="CenterAndExpand"
                     x:Name="CounterLabel"/>

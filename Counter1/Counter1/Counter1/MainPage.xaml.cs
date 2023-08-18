@@ -10,7 +10,7 @@ namespace Counter1
 {
     public partial class MainPage : ContentPage
     {
-        private int counter;
+        private readonly Container container = new Container();
 
         public MainPage()
         {
@@ -19,12 +19,12 @@ namespace Counter1
 
         private void AddToCounter(object sender, EventArgs e)
         {
-            this.counter++;
+            container.Counter++;
         }
 
         private void SeeResult(object sender, EventArgs e)
         {
-            this.Navigation.PushAsync(new ResultsPage(this.counter));
+            Navigation.PushAsync(new ResultsPage(this.container));
         }
     }
 }
