@@ -10,7 +10,7 @@ namespace Counter1
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            this.MainPage = new NavigationPage(new MainPage());
         }
 
         protected override void OnStart ()

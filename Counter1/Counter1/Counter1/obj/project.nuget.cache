@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6a7TJv4eFTFLVSUg3SqY5vOQIg5YCsfdhsoWPFS3u4a5jVBa+a4SSea5M/WNtCyMVzG+wtk1sBqGv0AtiLVQA==",
+  "success": true,
+  "projectFilePath": "/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter1/Counter1/Counter1/Counter1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ben.young/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
