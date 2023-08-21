@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7B5761D2-BFCD-492C-B918-8D0BCA64091F}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.ItemProperties.Counter2.Android PreferredExecutionTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Counter2/Counter2/MainPage.xaml">
+    <Files>
+      <File FileName="Counter2/Counter2/MainPage.xaml.cs" Line="16" Column="10" />
+      <File FileName="Counter2/Counter2/MainPage.xaml" Line="26" Column="30" />
+      <File FileName="Counter2/Counter2/App.xaml.cs" Line="16" Column="43" />
+      <File FileName="Counter2/Counter2/App.xaml" Line="12" Column="1" />
+      <File FileName="Counter2/Counter2/EmptyClass.cs" Line="9" Column="1" />
+      <File FileName="Counter2/Counter2/ResultsPage.xaml" Line="34" Column="21" />
+      <File FileName="Counter2/Counter2/ResultsPage.xaml.cs" Line="28" Column="1" />
+      <File FileName="Counter2/Counter2.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Counter2" expanded="True">
+            <Node name="Counter2">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Counter2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67D566A0-4C45-4875-BD4B-73038FCD6AB2" />
+</Properties>

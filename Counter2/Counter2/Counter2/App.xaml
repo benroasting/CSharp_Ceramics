@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counter2.App">
+
+    <Application.Resources>
+        <Color x:Key="Header">#DE3163</Color>
+        <Color x:Key="Secondary">#FF7F50</Color>
+        <Color x:Key="Background">#F9E79F </Color>
+    </Application.Resources>
+</Application>
