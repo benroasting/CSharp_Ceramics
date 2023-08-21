@@ -6,24 +6,23 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Counter2/Counter2/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Counter2/Counter2/App.xaml">
     <Files>
-      <File FileName="Counter2/Counter2/MainPage.xaml.cs" Line="16" Column="10" />
+      <File FileName="Counter2/Counter2/MainPage.xaml.cs" />
       <File FileName="Counter2/Counter2/MainPage.xaml" Line="26" Column="30" />
-      <File FileName="Counter2/Counter2/App.xaml.cs" Line="16" Column="43" />
-      <File FileName="Counter2/Counter2/App.xaml" Line="12" Column="1" />
-      <File FileName="Counter2/Counter2/EmptyClass.cs" Line="9" Column="1" />
-      <File FileName="Counter2/Counter2/ResultsPage.xaml" Line="34" Column="21" />
-      <File FileName="Counter2/Counter2/ResultsPage.xaml.cs" Line="28" Column="1" />
-      <File FileName="Counter2/Counter2.iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Counter2/Counter2/App.xaml.cs" />
+      <File FileName="Counter2/Counter2/App.xaml" Line="11" Column="1" />
+      <File FileName="Counter2/Counter2/ResultsPage.xaml" />
+      <File FileName="Counter2/Counter2/ResultsPage.xaml.cs" />
+      <File FileName="Counter2/Counter2.iOS/Main.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Counter2" expanded="True">
-            <Node name="Counter2">
+            <Node name="Counter2" expanded="True">
               <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

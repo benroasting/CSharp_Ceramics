@@ -6,6 +6,12 @@
     <Application.Resources>
         <Color x:Key="Primary">#6DAF89</Color>
         <Color x:Key="Secondary">#CEE4D7</Color>
+        <Color x:Key="Tertiary">#1D8348</Color>
+
+        <Style TargetType="NavigationPage">
+            <Setter Property="BarBackgroundColor" Value="{StaticResource Tertiary}" />
+
+        </Style>
     </Application.Resources>
 
 </Application>

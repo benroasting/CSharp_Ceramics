@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Counter3.ResultPage">
+    <ContentPage.Content>
+            <StackLayout Padding="20" BackgroundColor="{StaticResource Primary}">
+            <Label
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            Text="Results"
+            FontAttributes="Bold"
+            FontSize="32"
+            TextColor="{StaticResource Dark}"
+            />
+            <Label
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            Text="0"
+            FontAttributes="Bold"
+            FontSize="64"
+            TextColor="{StaticResource Secondary}"
+            x:Name="CounterLabel"
+            />
+            <Button
+            Text="Reset"
+            Clicked="Reset"
+            FontSize="Medium"
+            FontAttributes="Bold"
+            TextColor="{StaticResource Primary}"
+            BackgroundColor="{StaticResource Dark}"
+            Margin="0,0,0,20"/>
+    </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
+

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Counter3.MainPage"
+             ios:Page.UseSafeArea="false"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core">
+
+    <StackLayout Padding="20" BackgroundColor="{StaticResource Primary}">
+            <Label
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            Text="Simple Counter"
+            FontAttributes="Bold"
+            FontSize="32"
+            TextColor="{StaticResource Dark}"
+            />
+            <Button
+            VerticalOptions="EndAndExpand"
+            Text="Add to Counter"
+            Clicked="AddToCounter"
+            FontSize="Medium"
+            FontAttributes="Bold"
+            TextColor="{StaticResource Primary}"
+            BackgroundColor="{StaticResource Secondary}"
+            />
+            <Button
+            Text="See Result"
+            Clicked="SeeResult"
+            FontSize="Medium"
+            FontAttributes="Bold"
+            TextColor="{StaticResource Primary}"
+            BackgroundColor="{StaticResource Dark}"
+            Margin="0,0,0,20"/>
+    </StackLayout>
+
+</ContentPage>
+

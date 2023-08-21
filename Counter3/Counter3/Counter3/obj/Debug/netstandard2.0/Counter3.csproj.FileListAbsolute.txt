@@ -1,0 +1,16 @@
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/bin/Debug/netstandard2.0/Counter3.deps.json
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/bin/Debug/netstandard2.0/Counter3.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/bin/Debug/netstandard2.0/ref/Counter3.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/bin/Debug/netstandard2.0/Counter3.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.csproj.AssemblyReference.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/ResultPage.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.AssemblyInfoInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.AssemblyInfo.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.csproj.CoreCompileInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/refint/Counter3.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Counter3/Counter3/Counter3/obj/Debug/netstandard2.0/Counter3.pdb

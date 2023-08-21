@@ -5,12 +5,12 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Counter1/Counter1/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Counter1/Counter1/App.xaml">
     <Files>
-      <File FileName="Counter1/Counter1/MainPage.xaml.cs" Line="17" Column="35" />
-      <File FileName="Counter1/Counter1/MainPage.xaml" Line="3" Column="68" />
-      <File FileName="Counter1/Counter1/App.xaml" Line="12" Column="1" />
-      <File FileName="Counter1/Counter1/App.xaml.cs" Line="26" Column="10" />
+      <File FileName="Counter1/Counter1/MainPage.xaml.cs" />
+      <File FileName="Counter1/Counter1/MainPage.xaml" Line="15" Column="34" />
+      <File FileName="Counter1/Counter1/App.xaml" Line="18" Column="1" />
+      <File FileName="Counter1/Counter1/App.xaml.cs" />
       <File FileName="Counter1/Counter1/AssemblyInfo.cs" />
     </Files>
     <Pads>
@@ -18,8 +18,8 @@
         <State name="__root__">
           <Node name="Counter1" expanded="True">
             <Node name="Counter1">
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" selected="True" />
+              <Node name="App.xaml" selected="True" />
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
