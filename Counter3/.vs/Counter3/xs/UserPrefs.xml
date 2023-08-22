@@ -7,12 +7,12 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Counter3.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.67D566A0-4C45-4875-BD4B-73038FCD6AB2" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Counter3/Counter3/App.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Counter3/Counter3/MainPage.xaml">
     <Files>
-      <File FileName="Counter3/Counter3/MainPage.xaml.cs" />
-      <File FileName="Counter3/Counter3/MainPage.xaml" Line="16" Column="22" />
+      <File FileName="Counter3/Counter3/MainPage.xaml.cs" Line="23" Column="10" />
+      <File FileName="Counter3/Counter3/MainPage.xaml" Line="9" Column="19" />
       <File FileName="Counter3/Counter3/App.xaml.cs" Line="11" Column="13" />
-      <File FileName="Counter3/Counter3/App.xaml" Line="10" Column="1" />
+      <File FileName="Counter3/Counter3/App.xaml" Line="12" Column="87" />
       <File FileName="Counter3/Counter3/ResultPage.xaml" />
       <File FileName="Counter3/Counter3/ResultPage.xaml.cs" />
       <File FileName="Counter3/Counter3/Container.cs" />
@@ -22,7 +22,8 @@
         <State name="__root__">
           <Node name="Counter3" expanded="True">
             <Node name="Counter3">
-              <Node name="App.xaml" selected="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" selected="True" />
               <Node name="ResultPage.xaml" expanded="True" />
             </Node>
           </Node>
