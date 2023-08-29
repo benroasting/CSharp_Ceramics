@@ -1,6 +1,31 @@
 ﻿<Properties StartupConfiguration="{0948459F-9F1B-4C61-A396-84561DC37925}|Default">
   <MonoDevelop.Ide.ItemProperties.ListView1.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ListView1.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ListView1 FirstBuild="True" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.ItemProperties.ListView1.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListView1/ListView1/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListView1/ListView1/MainPage.xaml.cs" Line="25" Column="1" />
+      <File FileName="ListView1/ListView1/MainPage.xaml" Line="7" Column="1" />
+      <File FileName="ListView1/ListView1/App.xaml.cs" Line="32" Column="1" />
+      <File FileName="ListView1/ListView1/AppModels.cs" Line="19" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListView1">
+            <Node name="ListView1" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
 </Properties>

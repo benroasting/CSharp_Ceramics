@@ -1,11 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="ListView1.MainPage">
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             x:Class="ListView1.MainPage"
+             ios:Page.UseSafeArea="true"
+             BackgroundColor="Red"
+             >
 
-    <StackLayout>
-
+    <StackLayout BackgroundColor="LightGray">
+        <Label FontAttributes="Bold"
+               FontSize="32"
+               HorizontalOptions="Center"
+               Text="Pokedex"
+               >
+        </Label>
+        <ListView
+             ItemsSource="{Binding Species}"
+             WidthRequest="370"
+             HeightRequest="760"
+             HorizontalOptions="CenterAndExpand">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                        <ImageCell
+                        Detail="{Binding Description}"
+                        ImageSource="{Binding ImageSource}"
+                        Text="{Binding Name}">
+                        </ImageCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
+
 
 </ContentPage>
 

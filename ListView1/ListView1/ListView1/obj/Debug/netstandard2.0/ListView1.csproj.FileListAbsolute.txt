@@ -1,0 +1,15 @@
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.csproj.AssemblyReference.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.AssemblyInfoInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.AssemblyInfo.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.csproj.CoreCompileInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/bin/Debug/netstandard2.0/ListView1.deps.json
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/bin/Debug/netstandard2.0/ListView1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/bin/Debug/netstandard2.0/ref/ListView1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/bin/Debug/netstandard2.0/ListView1.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/refint/ListView1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/ListView1/ListView1/ListView1/obj/Debug/netstandard2.0/ListView1.pdb
