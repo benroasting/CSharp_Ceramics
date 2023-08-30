@@ -14,21 +14,23 @@
                Text="Pokedex"
                >
         </Label>
-        <ListView
-             ItemsSource="{Binding Species}"
-             WidthRequest="370"
-             HeightRequest="760"
-             HorizontalOptions="CenterAndExpand">
+
+        <ListView ItemSelected="ReleasePokemon" ItemsSource="{Binding Pokemons}">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                        <ImageCell
+                    <ImageCell
                         Detail="{Binding Description}"
                         ImageSource="{Binding ImageSource}"
-                        Text="{Binding Name}">
-                        </ImageCell>
+                        Text="{Binding Name}" />
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
+                <Button
+            BackgroundColor="DarkCyan"
+            Clicked="CatchPokemon"
+            Text="Catch Pokemon"
+            TextColor="White"
+            VerticalOptions="Start" />
     </StackLayout>
 
 
