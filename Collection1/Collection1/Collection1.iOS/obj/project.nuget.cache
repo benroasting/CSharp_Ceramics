@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DqeJsbXIEt6CRzsXvp/hzi/wlG7vGu9i3SDxKmwdGXg8cxv+DBlGUd0FuOlJWst/1GvO2b6B0f+ehMqZC/VRXQ==",
+  "success": true,
+  "projectFilePath": "/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1.iOS/Collection1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/ben.young/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/ben.young/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
