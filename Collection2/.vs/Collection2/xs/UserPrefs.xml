@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2B803289-47B7-4841-80B7-2283011956B9}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.ItemProperties.Collection2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Collection2.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3a_API_34_extension_level_7_arm64-v8a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Collection2/Collection2/MainPage.xaml">
+    <Files>
+      <File FileName="Collection2/Collection2/MainPage.xaml.cs" />
+      <File FileName="Collection2/Collection2/MainPage.xaml" Line="7" Column="1" />
+      <File FileName="Collection2/Collection2/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="Collection2/Collection2/App.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collection2" expanded="True">
+            <Node name="Collection2" expanded="True">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Collection2.iOS FirstBuild="True" />
+</Properties>
