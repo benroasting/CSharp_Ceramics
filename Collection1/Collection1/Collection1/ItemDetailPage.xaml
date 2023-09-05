@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Collection1.ItemDetailPage"
+    ios:Page.UseSafeArea="true"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:local="clr-namespace:Collection1;assembly=Collection1">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label
+                FontAttributes="Bold"
+                FontSize="32"
+                HorizontalOptions="Center"
+                Text="Desk Item Detail"
+                TextColor="LightBlue"
+                VerticalOptions="Start" />
+            <local:ItemView x:Name="ItemDetailCollection" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+

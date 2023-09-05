@@ -1,0 +1,17 @@
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.csproj.AssemblyReference.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/ItemView.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.AssemblyInfoInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.AssemblyInfo.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.csproj.CoreCompileInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/refint/Collection1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/Collection1.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/ItemDetailPage.xaml.g.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/bin/Debug/netstandard2.0/Collection1.deps.json
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/bin/Debug/netstandard2.0/Collection1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/bin/Debug/netstandard2.0/ref/Collection1.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/bin/Debug/netstandard2.0/Collection1.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Collection1/Collection1/Collection1/obj/Debug/netstandard2.0/XamlC.stamp

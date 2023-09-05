@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Collection1.ItemView">
+    <CollectionView
+        SelectionChanged="ItemSelected"
+        SelectionMode="Single"
+        x:FieldModifier="public"
+        x:Name="ItemCollection" >
+        <CollectionView.ItemTemplate>
+               <DataTemplate>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+                    <Image
+                        Aspect="AspectFill"
+                        Grid.RowSpan="2"
+                        HeightRequest="60"
+                        Source="{Binding ImageSource}"
+                        WidthRequest="60"/>
+                    <Label FontAttributes="Bold"
+                           Grid.Column="1"
+                           Text="{Binding Name}"
+                           TextColor="Goldenrod"/>
+                    <Label FontAttributes="Bold"
+                           Grid.Column="1"
+                           Grid.Row="1"
+                           Text="{Binding Description}"
+                           TextColor="LightCoral"/>
+                </Grid>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+    </CollectionView>
+</ContentView>
+
