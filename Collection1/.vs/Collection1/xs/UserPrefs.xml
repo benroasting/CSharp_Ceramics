@@ -1,6 +1,38 @@
 ﻿<Properties StartupConfiguration="{DD2072FD-9E5F-4B6F-ABAF-A10B38EB1B4B}|Default">
-  <MonoDevelop.Ide.ItemProperties.Collection1.Android FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Collection1.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Collection1 FirstBuild="True" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.Pixel_5_API_34" />
+  <MonoDevelop.Ide.ItemProperties.Collection1.Android PreferredExecutionTarget="Android.Pixel_5_API_34" />
+  <MonoDevelop.Ide.ItemProperties.Collection1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2214EC22-7893-4A7A-9F0A-F44BC437C094" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Collection1/Collection1/App.xaml">
+    <Files>
+      <File FileName="Collection1/Collection1/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Collection1/Collection1/MainPage.xaml" Line="14" Column="10" />
+      <File FileName="Collection1/Collection1/App.xaml" Line="1" Column="1" />
+      <File FileName="Collection1/Collection1/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Collection1/Collection1/DeskItem.cs" Line="18" Column="1" />
+      <File FileName="Collection1/Collection1/ItemView.xaml" Line="43" Column="1" />
+      <File FileName="Collection1/Collection1/ItemView.xaml.cs" Line="43" Column="1" />
+      <File FileName="Collection1/Collection1/ItemDetailPage.xaml" Line="14" Column="43" />
+      <File FileName="Collection1/Collection1/ItemDetailPage.xaml.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Collection1">
+            <Node name="Collection1" expanded="True">
+              <Node name="ItemDetailPage.xaml" expanded="True" />
+              <Node name="ItemView.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
