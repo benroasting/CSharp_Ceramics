@@ -1,0 +1,15 @@
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/bin/Debug/net7.0/Console
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/bin/Debug/net7.0/Console.deps.json
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/bin/Debug/net7.0/Console.runtimeconfig.json
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/bin/Debug/net7.0/Console.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/bin/Debug/net7.0/Console.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.csproj.AssemblyReference.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.AssemblyInfoInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.AssemblyInfo.cs
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.csproj.CoreCompileInputs.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/refint/Console.dll
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.pdb
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/Console.genruntimeconfig.cache
+/Users/ben.young/Documents/Development/Learning/CSharp/CS_Ceramics/Console/obj/Debug/net7.0/ref/Console.dll
